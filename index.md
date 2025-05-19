@@ -7,4 +7,14 @@
 ##### 五级标题
 ###### 六级标题
 
+### 添加代码示例
+* 示例一
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+* 示例二
+``` javascript
+var myVar = "Hello, world!";
+```
 
